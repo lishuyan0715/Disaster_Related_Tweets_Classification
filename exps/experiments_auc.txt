@@ -1,0 +1,12 @@
+Experiment 1: Fitting a simple Logistic Regression on Counts 
+AUC: 0.8587537757209139
+Experiment 2: Fitting a simple Logistic Regression on TFIDF 
+AUC: 0.8609448187888514
+Experiment 3: Fitting a simple Naive Bayes on Counts 
+AUC: 0.8523640074818785
+Experiment 4: Fitting a simple Naive Bayes on TFIDF 
+AUC: 0.8561933463026392
+Experiment 5: Fitting a XGBoost Classification on Counts 
+AUC: 0.8413218635144724
+Experiment 6: Fitting a XGBoost Classification on TFIDF 
+AUC: 0.8358071424700854
